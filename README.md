@@ -49,3 +49,8 @@ Involves extensive data analysis and visualization techniques applied to the [Ca
   - **R-squared** (R²): Indicating moderate predictive power.
   - **Mean Absolute Error (MAE)**: Showing the average prediction error.
   - **Mean Squared Error (MSE)**: Providing an error measure sensitive to larger discrepancies.
+- **Multiple Linear Regression**: Log transformations on `math12` scores based on `read12`, `motheduc`, `fatheduc`, and `lfaminc`.
+- **Prediction and Residual Analysis**:
+  - Plots to compare predicted values and residuals.
+  - **Shapiro-Wilk test**: Showing residual deviation from actual values.
+  - **Q-Q Plot**: Confirming model's validity.
